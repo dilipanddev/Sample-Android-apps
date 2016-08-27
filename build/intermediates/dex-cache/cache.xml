@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_9b565226d8cefe4a44835739bebb59d962a97db4.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\exploded-aar\SpotLightDemo\spotLightLib\unspecified\jars\libs\android-support-design.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="743a12828bced39e5b26d6255206d9f7e6aac09e">
+        <dex dex="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\pre-dexed\debug\android-support-design_3712ba0d720a9f09572b5b611e9814a9d65e6f4d.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_ca36e714505c3b21d8d94d984efed5f9f625d01b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PCCS-0007\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_7935f8b3e8d3db777a5b3afaad0a75bb361f9825.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\exploded-aar\SpotLightDemo\spotLightLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a8449a7fc928d755bad875d3245faee9fcae21d2">
+        <dex dex="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\pre-dexed\debug\SpotLightDemo-spotLightLib-unspecified_7f2394c9f8daf6b41f5a25e0fc6e39046023e357.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_24ffda17f88d90d6b1ab30498b61a3ea97e7052b.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_e9d2ac06df1c8d7d4d739046623066ef88e71adb.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\Workspaces\Android Studio WorkSpace\SpotLightDemo\spotLightDemo\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_9f1f6605a4711819903c92133321dd3276e11bd6.jar" />
+    </item>
+
+</items>

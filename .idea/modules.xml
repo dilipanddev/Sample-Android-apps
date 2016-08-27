@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpotLightDemo.iml" filepath="$PROJECT_DIR$/SpotLightDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotLightDemo/spotLightDemo.iml" filepath="$PROJECT_DIR$/spotLightDemo/spotLightDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotLightLib/spotLightLib.iml" filepath="$PROJECT_DIR$/spotLightLib/spotLightLib.iml" />
+    </modules>
+  </component>
+</project>
