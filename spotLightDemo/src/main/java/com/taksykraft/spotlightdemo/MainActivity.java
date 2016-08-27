@@ -15,7 +15,7 @@ public class MainActivity extends Activity
 {
 
 	private boolean isRevealEnabled = false;
-
+		//adasdadssdasda
 	private static final String BTN1 = "btn1";
 	private static final String BTN2 = "btn2";
 	private static final String BTN3 = "btn3";
